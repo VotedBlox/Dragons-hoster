@@ -1,1 +1,1 @@
-Boi is cool
+print("Hello world")
